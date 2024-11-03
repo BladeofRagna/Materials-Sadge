@@ -1,0 +1,120 @@
+- id: 0x39E7
+  en: 'Dark Sadge'
+- id: 0x3AAF
+  en: 'Blazing Sadge'
+- id: 0x3ABF
+  en: 'Lightning Sadge'
+- id: 0x3AC7
+  en: 'Power Sadge'
+- id: 0x3ACF
+  en: 'Lucid Sadge'
+- id: 0x3AD7
+  en: 'Dense Sadge'
+- id: 0x3ADF
+  en: 'Twilight Sadge'
+- id: 0x3AE7
+  en: 'Mythril Sadge'
+- id: 0x3AEF
+  en: 'Bright Sadge'
+- id: 0x3AF7
+  en: 'Energy Sadge'
+- id: 0x3AFF
+  en: 'Serenity Sadge'
+- id: 0x3B69
+  en: 'Frost Sadge'
+- id: 0x4EDF
+  en: '{:width 85}Remembrance Sadge'
+- id: 0x4EE7
+  en: 'Tranquility Sadge'
+- id: 0x39E9
+  en: 'Dark Stonage'
+- id: 0x3AB1
+  en: 'Blazing Stonage'
+- id: 0x3AC1
+  en: 'Lightning Stonage'
+- id: 0x3AC9
+  en: 'Power Stonage'
+- id: 0x3AD1
+  en: 'Lucid Stonage'
+- id: 0x3AD9
+  en: 'Dense Stonage'
+- id: 0x3AE1
+  en: 'Twilight Stonage'
+- id: 0x3AE9
+  en: 'Mythril Stonage'
+- id: 0x3AF1
+  en: 'Bright Stonage'
+- id: 0x3AF9
+  en: 'Energy Stonage'
+- id: 0x3B01
+  en: 'Serenity Stonage'
+- id: 0x3B6B
+  en: 'Frost Stonage'
+- id: 0x4EE1
+  en: '{:width 83}Remembrance Stonage'
+- id: 0x4EE9
+  en: 'Tranquility Stonage'
+- id: 0x39EB
+  en: 'Dark Sadgem'
+- id: 0x3AB3
+  en: 'Blazing Sadgem'
+- id: 0x3AC3
+  en: 'Lightning Sadgem'
+- id: 0x3ACB
+  en: 'Power Sadgem'
+- id: 0x3AD3
+  en: 'Lucid Sadgem'
+- id: 0x3ADB
+  en: 'Dense Sadgem'
+- id: 0x3AE3
+  en: 'Twilight Sadgem'
+- id: 0x3AEB
+  en: 'Mythril Sadgem'
+- id: 0x3AF3
+  en: 'Bright Sadgem'
+- id: 0x3AFB
+  en: 'Energy Sadgem'
+- id: 0x3B03
+  en: 'Serenity Sadgem'
+- id: 0x3B6D
+  en: 'Frost Sadgem'
+- id: 0x4EE3
+  en: '{:width 83}Remembrance Sadgem'
+- id: 0x4EEB
+  en: 'Tranquility Sadgem'
+- id: 0x39ED
+  en: 'Dark Sadgestal'
+- id: 0x3AB5
+  en: 'Blazing Sadgestal'
+- id: 0x3AC5
+  en: 'Lightning Sadgestal'
+- id: 0x3ACD
+  en: 'Power Sadgestal'
+- id: 0x3AD5
+  en: 'Lucid Sadgestal'
+- id: 0x3ADD
+  en: 'Dense Sadgestal'
+- id: 0x3AE5
+  en: 'Twilight Sadgestal'
+- id: 0x3AED
+  en: 'Mythril Sadgestal'
+- id: 0x3AF5
+  en: 'Bright Sadgestal'
+- id: 0x3AFD
+  en: 'Energy Sadgestal'
+- id: 0x3B05
+  en: 'Serenity Sadgestal'
+- id: 0x3B6F
+  en: 'Frost Sadgestal'
+- id: 0x4EE5
+  en: '{:width 80}Remembrance Sadgestal'
+- id: 0x4EED
+  en: 'Tranquility Sadgestal'
+- id: 0x3B07
+  en: 'Orichalsadge+'
+- id: 0x3B27
+  en: 'Orichalsadge'
+- id: 0x4EEF
+  en: 'Lost Sadge'
+- id: 0x4EF1
+  en: 'Manifest Sadge'
